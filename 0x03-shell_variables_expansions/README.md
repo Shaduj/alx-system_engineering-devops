@@ -1,1 +1,1 @@
-shell expansion
+shell expansions
